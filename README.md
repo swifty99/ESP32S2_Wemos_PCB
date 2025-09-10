@@ -9,9 +9,9 @@ ESP Devices have so many nice interfaces. This PCB adds:
 
 This is a Kicad project, feel free to improve. Or just upload the pcb file to the manufacturer you like
 
-![front view](ESP32S2_adapter.png)
+![front view](extras/ESP32S2_adapter.png)
 
 
-![rear view](ESP32S2_adapter_back.png)
+![rear view](extras/ESP32S2_adapter_back.png)
 
 

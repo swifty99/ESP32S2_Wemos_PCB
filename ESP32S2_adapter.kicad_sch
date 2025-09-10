@@ -4197,7 +4197,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "V2:\nUART 2 correct name\nCPs labeled\n\nV2:\n- IOS beschriften\n- 100R markieren\n- VCC stat 3v3 jumper beschriftung\n- VCC an A0 jumper\n- Bennenunt Jumper  in shema wie auf PCB\n- Gotos nennen wie auf dem Chip\n\n\nv3_\n- vcc jumper digi beschriften\n"
+	(text "V2:\nUART 2 correct name\nCPs labeled\n\nV2:\n- IOS beschriften\n- 100R markieren\n- VCC stat 3v3 jumper beschriftung\n- VCC an A0 jumper\n- Bennenunt Jumper  in shema wie auf PCB\n- Gotos nennen wie auf dem Chip\n\n\nv3_\n- vcc jumper digi beschriften.\n"
 		(exclude_from_sim no)
 		(at 147.32 74.168 0)
 		(effects
